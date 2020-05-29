@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nickjhall.name/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nickjhall.name/posts/hello/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nickjhall.name/tags/hello/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nickjhall.name/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nickjhall.name/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nickjhall.name/tags/</loc>
+  </url>
+  
+</urlset>
